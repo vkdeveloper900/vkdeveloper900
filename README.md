@@ -31,7 +31,7 @@ My personal portfolio website showcasing my projects, skills, and experience.
 - **Tech Stack**: HTML, CSS, Bootstrap
 - **Features**: Responsive design, project showcase, contact form
 
-For more of my projects, check out the **[Work Projects](https://vkdeveloper900.github.io/Portfolio/#work)** section on my portfolio!
+For more of my projects, check out the **[Work Projects](https://vkdeveloper900.github.io/Portfolio/work.html)** section on my portfolio!
 
 ## 🛠️ Skills & Tools
 
