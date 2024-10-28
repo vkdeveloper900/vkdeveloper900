@@ -1,8 +1,12 @@
+Here's an updated GitHub profile section with the new project added:
+
+---
+
 # Hi, I'm Vinod Suthar (VKDEVELOPER) 👋
 
 **`Full Stack Developer | Laravel Expert | Frontend Enthusiast`**
 
-Welcome to my GitHub profile! I'm a passionate full stack web developer with expertise in Laravel, PHP, HTML, CSS, JavaScript, and Bootstrap. I love building dynamic web applications that solve real-world problems and help businesses grow.
+Welcome to my GitHub profile! I'm a passionate full-stack web developer with expertise in Laravel, PHP, HTML, CSS, JavaScript, and Bootstrap. I love building dynamic web applications that solve real-world problems and help businesses grow.
 
 ## 🚀 About Me
 
@@ -30,6 +34,11 @@ A Laravel-based system for managing stock, billing, and sales reports for an ele
 My personal portfolio website showcasing my projects, skills, and experience.
 - **Tech Stack**: HTML, CSS, Bootstrap
 - **Features**: Responsive design, project showcase, contact form
+
+### [Photographer Website](https://www.linkedin.com/posts/vinod-suthar-30b8a1298_laravel-bootstrap-webdevelopment-activity-7256563342679408640-X6gf?utm_source=share&utm_medium=member_desktop)
+A user-friendly platform for photographers to showcase their portfolio and connect with clients.
+- **Tech Stack**: Laravel, Bootstrap, PHP
+- **Features**: Responsive design, portfolio showcase, booking system
 
 For more of my projects, check out the **[Work Projects](https://vkdeveloper900.github.io/Portfolio/work.html)** section on my portfolio!
 
