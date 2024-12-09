@@ -47,7 +47,7 @@ For more of my projects, check out the **[Work Projects](https://vkdeveloper900.
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: PHP, Laravel, MySQL
 - **Version Control**: Git, GitHub
-- **Tools**: VS Code, MAMP, XAMPP
+- **Tools**: PhpStorm , VS Code, MAMP, XAMPP
 
 ## 📫 How to Reach Me
 
@@ -55,6 +55,7 @@ Feel free to connect with me on:
 
 - **LinkedIn**: [Vinod Suthar](https://www.linkedin.com/in/vinod-suthar-30b8a1298/)
 - **GitHub**: [vkdeveloper900](https://github.com/vkdeveloper900)
+- **Instagram**: [vksuthar900](https://www.instagram.com/vksuthar_/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
 - **Email**: vksuthar900@gmail.com
 
 ## 🌟 Let's Collaborate
