@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer with exp
 
 ## 🚀 About Me
 
-- 🌍 I’m based in Rajasthan, India
-- 🔭 I’m currently working on a **Billing System** for an electronics shop using **Laravel**
+- 🌍 I’m based in Ahmedabad (Gujarat), India
+- 🔭 I’m currently working on a **Inventory Management System** Developing a customizable template for inventory tracking, designed for integration with billing systems or e-commerce platforms. Built using **Laravel** and **Bootstrap** for scalability and ease of use
 - 🌱 I’m always learning new technologies and improving my skills
 - 💬 Ask me about **Laravel**, **PHP**, **Bootstrap**, and **Web Development**
 - ⚡ Fun fact: I enjoy coding and creating projects that make life easier for users!
