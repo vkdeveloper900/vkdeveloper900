@@ -1,14 +1,14 @@
 # Hi, I'm Vinod Suthar (VKDEVELOPER) 👋
 
-**`Full Stack Developer | Laravel Expert | Frontend Enthusiast`**
+**`Full Stack Developer | Laravel Developer `**
 
 Welcome to my GitHub profile! I'm a passionate full-stack web developer specializing in Laravel and frontend technologies. I love building dynamic, scalable web applications that solve real-world problems and empower businesses.
 
 ## 🚀 About Me
 
-* 🌍 Based in Ahmedabad (Gujarat), India
+* 🏡 Originally from Sadri, Pali (Rajasthan)
+* 🌍 Currently based in Ahmedabad (Gujarat), India
 * 🎓 B.C.A. Graduate from SPU College, Falna (J.N.V. University Jodhpur)
-* 🔭 Currently working on an **Inventory Management System** with stock tracking, invoice generation, and role-based access — built with **Laravel**, **PHP**, and **Bootstrap**, designed to scale with billing and e-commerce modules
 * 🌱 Always learning new technologies and best practices
 * 💬 Ask me about **Laravel**, **PHP**, **Bootstrap**, **JavaScript**, and **MySQL**
 * ⚡ Fun fact: I enjoy making useful tools that simplify everyday tasks!
