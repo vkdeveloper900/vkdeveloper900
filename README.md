@@ -1,65 +1,87 @@
-Here's an updated GitHub profile section with the new project added:
-
----
-
 # Hi, I'm Vinod Suthar (VKDEVELOPER) 👋
 
 **`Full Stack Developer | Laravel Expert | Frontend Enthusiast`**
 
-Welcome to my GitHub profile! I'm a passionate full-stack web developer with expertise in Laravel, PHP, HTML, CSS, JavaScript, and Bootstrap. I love building dynamic web applications that solve real-world problems and help businesses grow.
+Welcome to my GitHub profile! I'm a passionate full-stack web developer specializing in Laravel and frontend technologies. I love building dynamic, scalable web applications that solve real-world problems and empower businesses.
 
 ## 🚀 About Me
 
-- 🌍 I’m based in Ahmedabad (Gujarat), India
-- 🔭 I’m currently working on a **Inventory Management System** Developing a customizable template for inventory tracking, designed for integration with billing systems or e-commerce platforms. Built using **Laravel** and **Bootstrap** for scalability and ease of use
-- 🌱 I’m always learning new technologies and improving my skills
-- 💬 Ask me about **Laravel**, **PHP**, **Bootstrap**, and **Web Development**
-- ⚡ Fun fact: I enjoy coding and creating projects that make life easier for users!
+* 🌍 Based in Ahmedabad (Gujarat), India
+* 🎓 B.C.A. Graduate from SPU College, Falna (J.N.V. University Jodhpur)
+* 🔭 Currently working on an **Inventory Management System** with stock tracking, invoice generation, and role-based access — built with **Laravel**, **PHP**, and **Bootstrap**, designed to scale with billing and e-commerce modules
+* 🌱 Always learning new technologies and best practices
+* 💬 Ask me about **Laravel**, **PHP**, **Bootstrap**, **JavaScript**, and **MySQL**
+* ⚡ Fun fact: I enjoy making useful tools that simplify everyday tasks!
 
 ## 💼 Projects
 
-Here are some of the projects I’ve worked on:
+### [Inventory Management System](https://business.adoisstudio.com/admin/login)
+
+A full-featured Laravel-based system for inventory, invoicing, and access control.
+
+* **Tech Stack**: Laravel, PHP, Bootstrap, MySQL
+* **Features**: Stock management, invoice generation with GST, AJAX-based updates, role-based access, multi-product/variant handling, scalable design
 
 ### [Paper-Selling-Website](https://vkdeveloper900.github.io/Paper-Selling-Website/)
-A comprehensive platform for students, teachers, and educational institutions to browse and purchase past exam papers.
-- **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL
-- **Features**: Secure payment gateway, categorized paper listings, admin dashboard
+
+A categorized exam paper portal for students and institutions.
+
+* **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL
+* **Features**: Secure checkout, searchable categories, admin panel
 
 ### [Billing System for Electronic Shop](https://www.linkedin.com/posts/vinod-suthar-30b8a1298_laravel-webdevelopment-billingsystem-activity-7239162747500855296-PZCn)
-A Laravel-based system for managing stock, billing, and sales reports for an electronic shop.
-- **Tech Stack**: Laravel, PHP, MySQL, Bootstrap
-- **Features**: Stock management, billing generation, sales reporting, admin panel
 
-### [Portfolio Website](https://vkdeveloper900.github.io/Portfolio/)
-My personal portfolio website showcasing my projects, skills, and experience.
-- **Tech Stack**: HTML, CSS, Bootstrap
-- **Features**: Responsive design, project showcase, contact form
+A Laravel-powered solution for electronic shop billing and inventory.
 
-### [Photographer Website](https://www.linkedin.com/posts/vinod-suthar-30b8a1298_laravel-bootstrap-webdevelopment-activity-7256563342679408640-X6gf?utm_source=share&utm_medium=member_desktop)
-A user-friendly platform for photographers to showcase their portfolio and connect with clients.
-- **Tech Stack**: Laravel, Bootstrap, PHP
-- **Features**: Responsive design, portfolio showcase, booking system
+* **Tech Stack**: Laravel, PHP, Bootstrap, MySQL
+* **Features**: Inventory tracking, invoice printing, sales reporting
 
-For more of my projects, check out the **[Work Projects](https://vkdeveloper900.github.io/Portfolio/work.html)** section on my portfolio!
+### [Photographer Studio Website (Nap Spirit Studio)](https://www.linkedin.com/posts/vinod-suthar-30b8a1298_laravel-bootstrap-webdevelopment-activity-7256563342679408640-X6gf?utm_source=share&utm_medium=member_desktop)
+
+Platform for studios to showcase photo albums, films, and services.
+
+* **Tech Stack**: Laravel, Bootstrap, PHP
+* **Features**: Admin CMS, gallery management, client-facing pages
+
+### [Mobile Services & Training Centre Website](https://royalcellorbit.com)
+
+A clean, static one-page site presenting mobile repair and training services.
+
+* **Tech Stack**: HTML, CSS, Bootstrap
+
+### [Company Portfolio](http://adoisstudio.com)
+
+A Laravel-based company portfolio to highlight services and projects.
+
+* **Tech Stack**: Laravel, Bootstrap
+
+### [SweetAlert Showcase](https://vkdeveloper900.github.io/sweetalert-showcase/)
+
+Interactive demo page for SweetAlert with custom styles and alerts.
+
+### [Personal Portfolio](https://vkdeveloper900.github.io/Portfolio/)
+
+Portfolio showcasing my projects, resume, and contact info.
+
+* **Tech Stack**: HTML, CSS, Bootstrap
+
+More projects available on the [Work Projects](https://vkdeveloper900.github.io/Portfolio/work.html) page of my portfolio.
 
 ## 🛠️ Skills & Tools
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP, Laravel, MySQL
-- **Version Control**: Git, GitHub
-- **Tools**: PhpStorm , VS Code, MAMP, XAMPP
+* **Frontend**: HTML, CSS, JavaScript, Bootstrap
+* **Backend**: PHP (Core), Laravel
+* **Database**: MySQL
+* **Tools**: Git, GitHub, PhpStorm, VS Code, MAMP, XAMPP
+* **Extras**: Microsoft Office, SweetAlert, AJAX
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on:
-
-- **LinkedIn**: [Vinod Suthar](https://www.linkedin.com/in/vinod-suthar-30b8a1298/)
-- **GitHub**: [vkdeveloper900](https://github.com/vkdeveloper900)
-- **Instagram**: [vksuthar_](https://www.instagram.com/vksuthar_/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
-- **Email**: vksuthar900@gmail.com
+* **Email**: [vksuthar900@gmail.com](mailto:vksuthar900@gmail.com)
+* **GitHub**: [vkdeveloper900](https://github.com/vkdeveloper900)
+* **LinkedIn**: [Vinod Suthar](https://www.linkedin.com/in/vinod-suthar-30b8a1298/)
+* **Instagram**: [@vksuthar\_](https://www.instagram.com/vksuthar_/)
 
 ## 🌟 Let's Collaborate
 
-I’m always open to collaboration on interesting web development projects. If you have an exciting idea or need help with your project, feel free to reach out!
-
-Thanks for visiting my profile! 😊
+I'm always open to new ideas and collaborations! If you have a web app idea or need a Laravel developer, feel free to reach out.
