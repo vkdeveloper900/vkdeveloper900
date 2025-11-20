@@ -12,6 +12,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer speciali
 * 🌱 Always learning new technologies and best practices
 * 💬 Ask me about **Laravel**, **PHP**, **Bootstrap**, **JavaScript**, and **MySQL**
 * ⚡ Fun fact: I enjoy making useful tools that simplify everyday tasks!
+* 👨‍💻 Software Developer with a focus on Laravel, PHP, Bootstrap, JavaScript, and MySQL
+🔧 Currently working at Adler Talent Solutions Pvt Ltd (Ahmedabad) as a Laravel Developer since August 2025.
+🌱 Lifelong learner — always exploring new technologies, best practices, and efficient solutions
 
 ## 💼 Projects
 
