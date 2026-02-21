@@ -1,90 +1,166 @@
-# Hi, I'm Vinod Suthar (VKDEVELOPER) 👋
+# 👋 Hi, I'm Vinod Suthar (VKDEVELOPER)
 
-**`Full Stack Developer | Laravel Developer `**
+### 🚀 Full Stack Developer | Laravel Developer | API & Integration Specialist
 
-Welcome to my GitHub profile! I'm a passionate full-stack web developer specializing in Laravel and frontend technologies. I love building dynamic, scalable web applications that solve real-world problems and empower businesses.
+I am a **Laravel-focused Full Stack Developer** based in Ahmedabad, India.  
+I build **scalable web applications, REST APIs, and business automation systems** with clean architecture and real-world use cases.
 
-## 🚀 About Me
+💼 Currently working as a **Laravel Developer**  
+🤝 Open to **Freelance & Contract Projects**
 
-* 🏡 Originally from Sadri, Pali (Rajasthan)
-* 🌍 Currently based in Ahmedabad (Gujarat), India
-* 🎓 B.C.A. Graduate from SPU College, Falna (J.N.V. University Jodhpur)
-* 🌱 Always learning new technologies and best practices
-* 💬 Ask me about **Laravel**, **PHP**, **Bootstrap**, **JavaScript**, and **MySQL**
-* ⚡ Fun fact: I enjoy making useful tools that simplify everyday tasks!
-* 👨‍💻 Software Developer with a focus on Laravel, PHP, Bootstrap, JavaScript, and MySQL
-🔧 Currently working at Adler Talent Solutions Pvt Ltd (Ahmedabad) as a Laravel Developer since August 2025.
-🌱 Lifelong learner — always exploring new technologies, best practices, and efficient solutions
+---
 
-## 💼 Projects
+## 🧑‍💻 About Me
 
-### [Inventory Management System](https://business.adoisstudio.com/admin/login)
+- 📍 Ahmedabad, Gujarat, India  
+- 🏡 Originally from Sadri, Pali (Rajasthan)  
+- 🎓 B.C.A. Graduate – SPU College, Falna (J.N.V. University, Jodhpur)  
+- 💼 Laravel Developer at **Adler Talent Solutions Pvt. Ltd.**  
+- 🔧 Working on **HRMS Web Application & Laravel API Projects**  
+- 🌱 Always learning & improving backend architecture  
+- 💬 Ask me about **Laravel, APIs, Payments, Integrations**
 
-A full-featured Laravel-based system for inventory, invoicing, and access control.
+---
 
-* **Tech Stack**: Laravel, PHP, Bootstrap, MySQL
-* **Features**: Stock management, invoice generation with GST, AJAX-based updates, role-based access, multi-product/variant handling, scalable design
+## 💼 Professional Experience
 
-### [Paper-Selling-Website](https://vkdeveloper900.github.io/Paper-Selling-Website/)
+### 🏢 Adler Talent Solutions Pvt. Ltd.  
+**Laravel Developer**  
+📍 Ahmedabad, Gujarat | 🗓 Aug 2025 – Present  
 
-A categorized exam paper portal for students and institutions.
+- Developing and enhancing **Laravel-based web applications**
+- Building **RESTful APIs** for frontend & third-party integrations
+- Working on **HRMS system** with role & permission management
+- Database design & optimization using **MySQL**
+- Integrating frontend & backend workflows
+- Writing clean, maintainable, and scalable code
+- Collaborating with teams following best practices
 
-* **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL
-* **Features**: Secure checkout, searchable categories, admin panel
+**Skills:** PHP, Laravel, REST APIs, MySQL, Bootstrap, Git
 
-### [Billing System for Electronic Shop](https://www.linkedin.com/posts/vinod-suthar-30b8a1298_laravel-webdevelopment-billingsystem-activity-7239162747500855296-PZCn)
+---
 
-A Laravel-powered solution for electronic shop billing and inventory.
+### 🏢 ADOIS GAMES (Adois Studio)  
+**Laravel Developer – Apprenticeship**  
+📍 Ahmedabad, Gujarat | 🗓 Oct 2024 – Jul 2025  
 
-* **Tech Stack**: Laravel, PHP, Bootstrap, MySQL
-* **Features**: Inventory tracking, invoice printing, sales reporting
+- Developed and maintained **dynamic Laravel web applications**
+- Built & integrated **REST APIs**
+- Handled database operations using **MySQL**
+- Implemented authentication & authorization modules
+- Used **Git** for version control and collaboration
+- Optimized queries for better performance
+- Worked on real-world business projects following coding standards
 
-### [Photographer Studio Website (Nap Spirit Studio)](https://www.linkedin.com/posts/vinod-suthar-30b8a1298_laravel-bootstrap-webdevelopment-activity-7256563342679408640-X6gf?utm_source=share&utm_medium=member_desktop)
+**Skills:** PHP, Laravel, MySQL, JavaScript, Bootstrap, HTML, CSS
 
-Platform for studios to showcase photo albums, films, and services.
+---
 
-* **Tech Stack**: Laravel, Bootstrap, PHP
-* **Features**: Admin CMS, gallery management, client-facing pages
+## ⚙️ Specializations & Integrations
 
-### [Mobile Services & Training Centre Website](https://royalcellorbit.com)
+- 🔌 **REST API Development (Laravel)**
+- 💳 **Payment Gateway Integration**
+  - Order creation
+  - Payment success / failure handling
+  - Secure callbacks & status tracking
+- 📩 **SMS Gateway Integration**
+  - OTP & notification services
+- 📅 **Microsoft Integration**
+  - Outlook Calendar integration
+  - Meeting scheduling & automation
+  - Email & calendar workflows
+- 🔐 Authentication & Role-Permission Systems
+- 🧑‍💼 HRMS & Business Automation Applications
 
-A clean, static one-page site presenting mobile repair and training services.
+---
 
-* **Tech Stack**: HTML, CSS, Bootstrap
+## 🛠️ Tech Stack
 
-### [Company Portfolio](http://adoisstudio.com)
+**Frontend:**  
+HTML5, CSS3, JavaScript, Bootstrap, AJAX  
 
-A Laravel-based company portfolio to highlight services and projects.
+**Backend:**  
+PHP (Core), Laravel, REST APIs  
 
-* **Tech Stack**: Laravel, Bootstrap
+**Database:**  
+MySQL  
 
-### [SweetAlert Showcase](https://vkdeveloper900.github.io/sweetalert-showcase/)
+**Tools:**  
+Git, GitHub, VS Code, PhpStorm, XAMPP, MAMP, SweetAlert  
 
-Interactive demo page for SweetAlert with custom styles and alerts.
+---
 
-### [Personal Portfolio](https://vkdeveloper900.github.io/Portfolio/)
+## 💻 Featured Projects
 
-Portfolio showcasing my projects, resume, and contact info.
+### 🔹 Inventory Management System  
+🔗 https://business.adoisstudio.com/admin/login  
 
-* **Tech Stack**: HTML, CSS, Bootstrap
+- Stock & product management  
+- GST invoice generation  
+- Role & permission control  
+- AJAX-based dynamic operations  
 
-More projects available on the [Work Projects](https://vkdeveloper900.github.io/Portfolio/work.html) page of my portfolio.
+**Tech:** Laravel, PHP, Bootstrap, MySQL
 
-## 🛠️ Skills & Tools
+---
 
-* **Frontend**: HTML, CSS, JavaScript, Bootstrap
-* **Backend**: PHP (Core), Laravel
-* **Database**: MySQL
-* **Tools**: Git, GitHub, PhpStorm, VS Code, MAMP, XAMPP
-* **Extras**: Microsoft Office, SweetAlert, AJAX
+### 🔹 Paper Selling Website  
+🔗 https://vkdeveloper900.github.io/Paper-Selling-Website/
 
-## 📫 How to Reach Me
+- Category-based paper system  
+- Search & admin panel  
 
-* **Email**: [vksuthar900@gmail.com](mailto:vksuthar900@gmail.com)
-* **GitHub**: [vkdeveloper900](https://github.com/vkdeveloper900)
-* **LinkedIn**: [Vinod Suthar](https://www.linkedin.com/in/vinod-suthar-30b8a1298/)
-* **Instagram**: [@vksuthar\_](https://www.instagram.com/vksuthar_/)
+**Tech:** HTML, CSS, JavaScript, PHP, MySQL
 
-## 🌟 Let's Collaborate
+---
 
-I'm always open to new ideas and collaborations! If you have a web app idea or need a Laravel developer, feel free to reach out.
+### 🔹 Billing System (Electronic Shop)  
+🔗 LinkedIn Project Demo  
+
+- Inventory tracking  
+- Invoice printing  
+- Sales reports  
+
+**Tech:** Laravel, PHP, MySQL
+
+---
+
+### 🔹 Photographer Studio Website  
+🔗 LinkedIn Project Demo  
+
+- CMS & gallery management  
+- Client-facing website  
+
+**Tech:** Laravel, Bootstrap
+
+---
+
+### 🔹 Personal Portfolio  
+🔗 https://vkdeveloper900.github.io/Portfolio/  
+
+👉 More work:  
+https://vkdeveloper900.github.io/Portfolio/work.html
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **vksuthar900@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/vinod-suthar-30b8a1298/
+- 💻 GitHub: https://github.com/vkdeveloper900
+- 📸 Instagram: https://www.instagram.com/vksuthar_/
+
+---
+
+## 🤝 Freelance & Collaboration
+
+I’m **open to freelance, contract, and collaboration opportunities**, especially in:
+
+- Laravel Web Applications  
+- REST API Development  
+- Payment & SMS Integrations  
+- HRMS & Business Systems  
+
+📩 Let’s build something impactful together!
+
+⭐ *If you like my work, consider starring my repositories.*
