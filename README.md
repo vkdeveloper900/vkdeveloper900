@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinod Suthar (VKDEVELOPER)
 
-### 🚀 Full Stack Developer | Laravel Developer | API & Integration Specialist
+### 🚀 Full Stack Developer | Laravel Developer | API & Integration
 
 I am a **Laravel-focused Full Stack Developer** based in Ahmedabad, India.  
 I build **scalable web applications, REST APIs, and business automation systems** with clean architecture and real-world use cases.
